@@ -1,134 +1,16 @@
-The gender of the person is: female
-The gender of the person is: female
-The gender of the person is: male
-The gender of the person is: male
-The gender of the person is: None
-The gender of the person is: female
-The gender of the person is: female
-The gender of the person is: None
-The gender of the person is: female
-The gender of the person is: male
-The gender of the person is: female
-The gender of the person is: male
-The gender of the person is: female
-The gender of the person is: male
-The gender of the person is: male
-The gender of the person is: None
-The gender of the person is: male
-The gender of the person is: female
-The gender of the person is: male
-The gender of the person is: male
-The gender of the person is: female
-The gender of the person is: male
-The gender of the person is: male
-The gender of the person is: male
-The gender of the person is: male
-The gender of the person is: male
-The gender of the person is: male
-The gender of the person is: male
-The gender of the person is: male
-The gender of the person is: male
-The gender of the person is: male
-The gender of the person is: male
-The gender of the person is: female
-The gender of the person is: male
-The gender of the person is: female
-The gender of the person is: male
-The gender of the person is: None
-The gender of the person is: male
-The gender of the person is: male
-The gender of the person is: male
-The gender of the person is: male
-The gender of the person is: None
-The gender of the person is: female
-The gender of the person is: male
-The gender of the person is: female
-The gender of the person is: female
-The gender of the person is: male
-The gender of the person is: male
-The gender of the person is: male
-The gender of the person is: male
-The gender of the person is: female
-The gender of the person is: male
-The gender of the person is: male
-The gender of the person is: male
-The gender of the person is: None
-The gender of the person is: male
-The gender of the person is: male
-The gender of the person is: None
-The gender of the person is: male
-The gender of the person is: male
-The gender of the person is: male
-The gender of the person is: male
-The gender of the person is: male
-The gender of the person is: female
-The gender of the person is: female
-The gender of the person is: male
-The gender of the person is: female
-The gender of the person is: male
-The gender of the person is: male
-The gender of the person is: female
-The gender of the person is: female
-The gender of the person is: male
-The gender of the person is: male
-The gender of the person is: None
-The gender of the person is: female
-The gender of the person is: male
-The gender of the person is: male
-The gender of the person is: male
-The gender of the person is: male
-The gender of the person is: female
-The gender of the person is: male
-The gender of the person is: male
-The gender of the person is: male
-The gender of the person is: None
-The gender of the person is: female
-The gender of the person is: male
-The gender of the person is: male
-The gender of the person is: None
-The gender of the person is: female
-The gender of the person is: male
-The gender of the person is: male
-The gender of the person is: None
-The gender of the person is: female
-The gender of the person is: male
-The gender of the person is: male
-The gender of the person is: None
-The gender of the person is: male
-The gender of the person is: male
-The gender of the person is: male
-The gender of the person is: male
-The gender of the person is: None
-The gender of the person is: male
-The gender of the person is: male
-The gender of the person is: None
-The gender of the person is: male
-The gender of the person is: male
-The gender of the person is: female
-The gender of the person is: male
-The gender of the person is: None
-The gender of the person is: male
-The gender of the person is: female
-The gender of the person is: None
-The gender of the person is: female
-The gender of the person is: male
-The gender of the person is: None
-The gender of the person is: female
-The gender of the person is: female
-The gender of the person is: None
-The gender of the person is: female
-The gender of the person is: male
-The gender of the person is: female
-The gender of the person is: female
-The gender of the person is: None
-The gender of the person is: male
-The gender of the person is: female
-The gender of the person is: None
-The gender of the person is: male
-The gender of the person is: male
-The gender of the person is: female
-The gender of the person is: male
+Pic number: 1
+The total number of likes is: 114.0
+The total number of female likes is: 37.0
+percentage wise: 32
+
+Pic number: 2
 The total number of likes is: 130.0
-The total number of female likes is: 35.0
+The total number of female likes is: 32.0
+percentage wise: 24
+
+Pic number: 3
+The total number of likes is: 123.0
+The total number of female likes is: 33.0
 percentage wise: 26
-Nope buddy, not hot according to girls :(
+
+Average percentage of female likes: 27.3333333333
