@@ -1,4 +1,4 @@
-# FacebookPicLikesByGirls
+# FacebookPicLikesByGender
 * This is a simple python script which calculates the number of female likes on a particular pic.
 * See the GraphApi.py file for instructions on how to change the parameters.
 * Every like is analyzed and a gender corresponding to the like is written to the file. The output file is Output.txt
