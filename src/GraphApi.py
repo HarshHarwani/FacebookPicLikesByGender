@@ -1,6 +1,5 @@
-import facebook
 import requests
-
+from src import facebook
 
 #get your access token from here: https://developers.facebook.com/tools/explorer
 access_token = 'CAACEdEose0cBACy3vnaBT071Lup3mn4kH8NauM4XHeyY1hMByDAvLlb2W4EUSsZBBg880XRKY00ZA9xmkDP6RXbZAEZA59pzJLGKxcGp48ZAgcMTcbM7ZC4K4Os8qFdWXGQdqiMUx2wu4bJZAOcwwvo4CwKcp3DraWFCylVYaOXb7d8WHiFbZBPPpgNJU6VrIK5JpyNtjyFAaEMC21iRFu9g0ZBZCUKYaUuhkZD'
