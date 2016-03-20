@@ -914,8 +914,8 @@
       <file leaf-file-name="GraphApi.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/GraphApi.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="5.8679247">
-              <caret line="22" column="39" selection-start-line="22" selection-start-column="39" selection-end-line="22" selection-end-column="39" />
+            <state vertical-scroll-proportion="7.0">
+              <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
               <folding>
                 <element signature="e#0#15#0" expanded="true" />
               </folding>
@@ -926,17 +926,7 @@
       <file leaf-file-name="Output.txt" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Output.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-2.710692">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="facebook.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/facebook.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
+            <state vertical-scroll-proportion="-3.4025156">
               <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
@@ -955,10 +945,11 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Output.txt" />
         <option value="$PROJECT_DIR$/testFile.py" />
         <option value="$PROJECT_DIR$/GraphApi.py" />
         <option value="$PROJECT_DIR$/test.py" />
+        <option value="$PROJECT_DIR$/src/GraphApi.py" />
+        <option value="$PROJECT_DIR$/Output.txt" />
       </list>
     </option>
   </component>
@@ -1007,6 +998,20 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="FbExperiment" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FbExperiment" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FbExperiment" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -1297,7 +1302,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/facebook.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state vertical-scroll-proportion="-18.056604">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
@@ -1305,8 +1310,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/GraphApi.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="5.8679247">
-          <caret line="22" column="39" selection-start-line="22" selection-start-column="39" selection-end-line="22" selection-end-column="39" />
+        <state vertical-scroll-proportion="7.0">
+          <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
           <folding>
             <element signature="e#0#15#0" expanded="true" />
           </folding>
@@ -1315,7 +1320,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Output.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-2.710692">
+        <state vertical-scroll-proportion="-3.4025156">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>

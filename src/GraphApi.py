@@ -1,5 +1,5 @@
 import requests
-from src import facebook
+import facebook
 
 #get your access token from here: https://developers.facebook.com/tools/explorer
 access_token = 'CAACEdEose0cBACy3vnaBT071Lup3mn4kH8NauM4XHeyY1hMByDAvLlb2W4EUSsZBBg880XRKY00ZA9xmkDP6RXbZAEZA59pzJLGKxcGp48ZAgcMTcbM7ZC4K4Os8qFdWXGQdqiMUx2wu4bJZAOcwwvo4CwKcp3DraWFCylVYaOXb7d8WHiFbZBPPpgNJU6VrIK5JpyNtjyFAaEMC21iRFu9g0ZBZCUKYaUuhkZD'
@@ -7,7 +7,7 @@ access_token = 'CAACEdEose0cBACy3vnaBT071Lup3mn4kH8NauM4XHeyY1hMByDAvLlb2W4EUSsZ
 #https://www.facebook.com/photo.php?fbid=10205355984653648&set=pb.1669607551.-2207520000.1458430750.&type=3&theater
 #when I say replace the id of the pic, I mean fbId of any of the pic as shown in the above url.
 
-picId = '10205355984653648/likes'
+picId = '10204664229920212/likes'
 
 #extracting the first names from the returned JSON
 def processNames(names):
@@ -29,6 +29,7 @@ def writeToFile():
     femaleCount=float(genderList.count("female"))
     totalCount=float(len(fnames))
     percentage=int((femaleCount/totalCount)*100.0)
+    text_file.write("The total number of likes is: %s\n" % totalCount )
     text_file.write("The total number of female likes is: %s\n" % femaleCount )
     text_file.write("percentage wise: %s\n" % percentage )
     if percentage > 50:
