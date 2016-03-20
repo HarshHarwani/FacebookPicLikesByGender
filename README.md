@@ -7,4 +7,3 @@ See the GraphApi.py file for instructions on how to change the parameters. The s
 Every like is analyzed and a gender corresponding to the file is written to the file. The output file is Output.txt
 
 
-Not tested the failure scenarios like what happens if the pic has no likes. Willdo that soon.
