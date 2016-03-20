@@ -6,5 +6,5 @@
 ##Future work:
 
 * The script is slow for now, as there are expensive API calls. I need to optimize this soon. 
-* Figure out a way to publish this so that people can use it. currenlty I dont know what will i use to connect python  backend(any pointers on this would be helpful).
+* Figure out a way to publish this so that people can use it. currenlty I dont know what will I use to connect python  backend(any pointers on this would be helpful).
 * Once the front end is built, I have a lot of other features in mind :)
